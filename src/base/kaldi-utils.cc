@@ -21,7 +21,7 @@
 #include <chrono>
 #include <cstdio>
 #include <thread>
-
+#include <cctype>
 
 namespace kaldi {
 
